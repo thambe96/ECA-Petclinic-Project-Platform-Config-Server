@@ -1,7 +1,0 @@
-server:
-  port: 8082
-
-spring:
-  data:
-    mongodb:
-      uri: mongodb://root:mongodb@localhost:13500/petdb?authSource=admin
